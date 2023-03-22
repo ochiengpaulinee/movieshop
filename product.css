@@ -1,0 +1,292 @@
+.nav{
+    margin-left: 17%;
+    align-items: center;
+}
+.nav ul li{
+    display:inline-flex;
+    padding: 20px;
+    margin-left: 3%;
+}
+.bh{
+    display: flex;
+    background-color: #FFD600;
+}
+#logo{
+    width: 10%;
+}
+#house{
+    margin-left: 3%;
+    margin-top: 5%;
+}
+#button{
+    margin-left: 5%;
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 5%;
+}
+#input{
+    margin-left: 5%;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 5%;
+}
+.icons{
+    float: right;
+    margin-top: 7%;
+    margin-left: 30%;
+}
+.AT{
+    display: flex;
+    margin-top: 3%;
+}
+#h4{
+    margin-left: 3%;
+    margin-top: -0.1%;
+}
+#star{
+    margin-top: -0.2%;
+}
+#bodypics{
+    display: flex;
+}
+#Button{
+    width: 45px;
+    height: 20px;
+    background-color: #E70062;
+    /* margin-bottom: 80px; */
+    margin-top: 5%;
+    border-radius: 10px;
+    float: right;
+    margin-right: 90%;
+    /* margin-top: 2%; */
+}
+#te{
+    width: 40%;
+    /* margin-top: 1%; */
+    margin-left: 6%;
+}
+#razor{
+    width: 5%;
+}
+#hoth{
+    width: 5%;
+    margin-left: 3%;
+}
+#fight{
+    width: 5%;
+    margin-left: 3%;
+}
+#just{
+    width: 5%;
+    margin-left: 3%;
+}
+#troop{
+    width: 5%;
+    margin-left: 2%;
+}
+.small{
+    float: left;
+    margin-left: 10%;
+}
+#forward{
+    font-size: xx-large;
+    margin-left: 1%;
+    margin-top: -3%;
+}
+#star{
+ color: #FFD600;
+}
+#now{
+    color: green;
+}
+#plus{
+    margin-left: 1%;
+    background-color: #FFD600;
+    border-radius: 5px;
+}
+#minus{
+    background-color: darkgrey;
+    border-radius: 5px;
+}
+.walker{
+    margin-left: 60%;
+    margin-top: -40%;
+}
+#heart{
+    margin-left: 3%;
+    font-size: 25px;
+    color: white;
+    background-color: #FFD600;
+    border-radius: 28px;
+}
+#add{
+    margin-top: 3%;
+    width: 17%;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: #FFD600;
+}
+#see{
+    margin-left: 38%;
+    margin-top: -7%;
+    color: #E70062;
+}
+#up{
+    color: white;
+    background-color: #E70062;
+    font-size: 25px;
+}
+#free{
+    margin-left: 38%;
+    margin-top: -7%;
+    color: green;
+}
+#arrow{
+    color: white;
+    background-color:firebrick;
+    font-size: 25px;
+}
+#fre{
+    margin-left: 38%;
+    margin-top: -7%;
+    color: green;
+}
+#poshta{
+    color: white;
+    background-color: #FFD600;
+    font-size: 25px;
+}
+.BUTTON{
+    display: flex;
+    float: right;
+    margin-top: 7%;
+    /* margin-right: 45%; */
+}
+#videos{
+    margin-right: 20%;
+    height: 40px;
+    width: 480px;
+    border-radius: 10px;
+}
+#reviews{
+height: 40px;
+width: 480px;
+border-radius: 10px;
+margin-left: 20%;
+}
+#about{
+    height: 40px;
+    width: 480px;
+    border-radius: 10px;
+    margin-left: 40%;
+    color: white;
+    background-color: #FFD600;
+    
+}
+#rise{
+    float: right;
+    margin-top: 10%;
+    margin-right: 23%;
+    font-size: 20px;
+}
+#function{
+    margin-top: 45%;
+    margin-left: 40%;
+}
+#star1{
+    width: 25%;
+    margin-left: 20%;
+    margin-top: 10%;
+    border:solid;
+    border-radius: 20px;
+    border-color: yellow;
+}
+#star2{
+    width: 25%;
+    margin-left: 5%;
+    border: solid;
+    border-radius: 20px;
+    border-color: yellow;
+}
+#star3{
+    width: 25%;
+    margin-left: 30%;
+    border: solid;
+    border-radius: 20px;
+    border-color: yellow;
+}
+#may{
+    margin-left: 40%;
+    margin-top: 8%;
+}
+.interest{
+    display: flex;
+}
+#justify{
+    width: 15%;
+    margin-left: 10%;
+}
+
+#dagobah{
+width: 15%;
+margin-left: 10%;
+}
+#ship{
+    width: 15%;
+}
+#sactrum{
+    width: 15%;
+    margin-left: 2%;
+}
+.footer{
+    display: flex;
+    margin-top: 10%;
+    background-color: #26004C;
+    color: white;
+}
+.company{
+    margin-left: 15%;
+}
+.help{
+    margin-left: 10%;
+}
+.contacts{
+    margin-left: 10%;
+}
+.social{
+    margin-left: 10%;
+}
+#youtube{
+    margin-left: 5%;
+}
+#insta{
+    margin-left: 5%;
+}
+#pp{
+    margin-left: 9%;
+}
+#pal{
+    margin-left: 8%;
+}
+#mc{
+    margin-left: 8%;
+}
+#ten{
+    width: 40px;
+    height: 30px;
+    background-color:#E70062;
+    border-radius: 10px;
+    margin-top: -2%;
+    margin-left: -16%;
+}
+#twenty{
+    width: 40px;
+    height: 30px;
+    background-color: #E70062;
+    border-radius: 10px;
+    margin-top: -5%;
+    margin-right: 10%;
+}

@@ -1,0 +1,398 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.catalogs{
+    padding: 0,35px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 27%;
+}
+.catalogs ul li{
+    display: inline-flex;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo{
+    display: flex;
+    background-color:#FFD600;
+}
+#logos{
+    margin-left: 5%;
+    background-color: #252525;
+    width: 5%;
+}
+#brick{
+    font-size: 30px;
+    margin-left: 2%;
+    margin-top: 3%;
+    color: white;
+}
+#button{
+    margin-left: 2%;
+    width:10%;
+    height: 35px;
+    margin-top: 3%;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+#search{
+    width: 20%;
+    margin-left: 2%;
+    height: 35px;
+    margin-top: 3%;
+    border-radius: 5px;
+}
+#icons{
+    float: right;
+    margin-left: 35%;
+    margin-top: 4%;
+    font-size: 20px;
+}
+
+.home{
+    float: left;
+    display: flex;
+    /* margin-left: 10%; */
+    margin-top: 3%;
+    background-color: black;
+    color: white;
+    /* height: ; */
+    margin-top: -0.5%;
+    /* width: 30%; */
+}
+#star{
+    /* margin-top: 1%; */
+    margin-left: 4%;
+
+}
+#direction{
+    margin-left: 5%;
+}
+#wars{
+    width: 5%;
+    float: right;
+    margin-left: 30%;
+}
+.hodi{
+    margin-top: 15px;
+    display: flex;
+    margin-left: 2%;
+}
+/* .series{
+    margin-left: 3%;
+    border: solid;
+    border-radius: 5px;
+    width: 15%;
+    padding: 0 20px;
+    border-color: darkgray;
+}
+.bodpics{
+    display: flex;
+} */
+.series{
+    margin-left: 3%;
+    border: solid;
+    border-radius: 5px;
+    width: 20%;
+    margin-top: 7%;
+    padding: 0 20px;
+    border-color: darkgray;
+}
+/* .bodpics{
+    display: flex;
+} */
+#dago{
+    width: 20%;
+    float: right;
+    margin-top: -40%;
+    margin-right: 55%;
+}
+#jedi{
+    float: right;
+    margin-top: -22%;
+    margin-right: 63%;
+}
+#star1{
+    color: #FFD600;
+    margin-left: 5%;
+}
+#star2{
+    color:#FFD600;
+    margin-left: 3%;
+}
+#star3{
+    color: #FFD600;
+    margin-left: 3%;
+}
+/* .photos{
+    display: flex;
+} */
+#tiee{
+    width: 20%;
+    float: right;
+    margin-top: -39%;
+    margin-right:27%;
+}
+#tie{
+    float: right;
+    margin-top: -22%;
+    margin-right: 33%;
+}
+#walk{
+    width: 20%;
+    float: right;
+    margin-top: -40%;
+    margin-left: 20%;
+}
+#walker{
+    float: right;
+    margin-top: -22%;
+    margin-left: 20%;
+}
+#fight{
+    width: 20%;
+    float: right;
+    margin-right: 55%;
+    margin-top: -15%;
+}
+.crest{
+    margin-right: 5%;
+}
+.WALK{
+    margin-right: 5%;
+}
+#fighter{
+    margin-left: 25%;
+}
+#AT{
+    width: 20%;
+    margin-left: 50%;
+    margin-top: -90%;
+}
+#at{
+    margin-left: 50%;
+}
+#Razor{
+    float: right;
+    width: 22%;
+    margin-top: -25%;
+}
+#razor{
+    float: right;
+    margin-top: -4%;
+    margin-right: 10%;
+}
+#lorians{
+    width: 20%;
+    margin-left: 30%;
+}
+.FIGHT{
+    margin-left: 27%;
+}
+.pics3{
+    display: flex;
+}
+#scythe{
+    margin-left: 50%;
+}
+#trans{
+    margin-left: 35%;
+}
+.kenobi{
+    margin-left: 18%;
+    margin-top: 2%;
+}
+.pics4{
+    display: flex;
+}
+.hoth{
+    margin-left: 22%;
+    margin-top: 2%;
+}
+.fetts{
+    margin-left: 7%;
+    margin-top: 2%;
+}
+.ferrix{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.pics5{
+    display: flex;
+}
+.justifier{
+    margin-left: 290px;
+    margin-top: 5%;
+}
+.troopers{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.FERRIX{
+margin-left: 3%;
+margin-top: 5%;
+}
+.numbers{
+    display: flex;
+    margin-left: 45%;
+    margin-top: 5%;
+}
+#b1{
+    width: 3%;
+    height: 5%;
+    border-radius: 80%;
+}
+#b2{
+    width: 3%;
+    height: 5%;
+    border-radius: 80%;
+    margin-left: 3%;
+}
+#b3{
+    width: 3%;
+    height: 5%;
+    border-radius: 80%;
+    margin-left: 3%;
+}
+#b4{
+    width: 3%;
+    height: 5%;
+    border-radius: 80%;
+    margin-left: 3%;
+}
+#b5{
+    width: 3%;
+    height: 5%;
+    border-radius: 80%;
+    margin-left: 3%;
+}
+#b12{
+    width: 3%;
+    height: 5%;
+    border-radius: 80%;
+}
+#d1{
+    margin-right: 3%;
+}
+#d2{
+    margin-left: 3%;
+}
+.footer{
+    display: flex;
+    margin-top: 7%;
+}
+.company{
+    margin-left: 23%;
+}
+.see{
+    margin-left: 50%;
+    margin-top: 3%;
+}
+#more{
+    width: 30%;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #FFD600;
+}
+.pay{
+    margin-left: 8%;
+}
+.contacts{
+    margin-left: 8%;
+}
+.socials{
+    margin-left: 4%;
+}
+#insta{
+    margin-left: 5%;
+}
+#youtube{
+    margin-left: 5%;
+}
+#master{
+    margin-left: 5%;
+}
+#pal{
+    margin-left: 5%;
+}
+#ppl{
+    margin-left: 5%;
+}
+.policy{
+    display: flex;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+#br{
+    margin-left: 5%;
+}
+#pp{
+    margin-left: 5%;
+}
+#coo{
+    margin-left: 5%;
+}
+#cr{
+    margin-left: 5%;
+}
+.end{
+    background-color: #260046;
+    color: white;
+}
+#nw{
+    float: right;
+    margin-top: -7%;
+    margin-right: 86%;
+    border-radius: 10px;
+    width: 15%;
+    background-color: #E70062;
+}
+#love1{
+    float: right;
+    margin-top: -8%;
+    margin-right: 20%;
+}
+#trp{
+    float: right;
+    margin-top: -30px;
+    margin-right: 88%;
+    border-radius: 10px;
+    width: 15%;
+    background-color: #E70062;
+}
+#love2{
+    float: right;
+    margin-top: -30px;
+    margin-right: 14%;
+}
+#love3{
+   margin-top: 3%; 
+}
+
+@media screen and (max-width:1000px),mi{
+    .body{
+        background-color: azure;
+    }
+} 
+
+/* .series{
+ height: 500px;
+ width: 200px;
+}
+.catalogs{
+ width: 200px;
+ height: 50px;
+}
+
+.pics5{
+ width: 30%;
+ margin-right: 100px;
+}
+
+.jed{
+    margin-top:-190px;margin-left:50px
+} */
