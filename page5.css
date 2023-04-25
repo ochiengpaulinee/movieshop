@@ -1,0 +1,391 @@
+*.container{
+    padding: 0,35px;
+    display: flex;
+    justify-content: space-between;
+}
+.container ul li{
+    display: inline-flex;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+}
+.container{
+    margin-left: 26%;
+}
+.brick{
+    display: flex;
+    background-color: #FFD600;
+}
+#bh{
+    width: 5%;
+    margin-left:5%;
+}
+#house{
+    font-size: 20px;
+
+}
+#inbox{
+    margin-left: 30%;
+    margin-top: 2%;
+}
+#info{
+    margin-top: 2%;
+}
+#phone{
+margin-left: 100px;
+margin-top: 2%;
+}
+#zero{
+    /* margin-left: 60px; */
+    margin-top: 2%;
+}
+#enter{
+    margin-left: 20px;
+}
+.info{
+    margin-left: 20px;
+}
+#first{
+    border-radius: 10px;
+    height: 40px;
+}
+.name{
+    display: flex;
+}
+.last{
+    margin-left: 80px;
+}
+#lasts{
+    border-radius: 10px;
+    height: 40px;
+}
+.phone{
+    margin-left: 20px;
+    margin-top: 8%;
+}
+#number{
+    border-radius: 10px;
+    height: 40px;
+}
+.phonenum{
+    display: flex;
+}
+#mail{
+    border-radius: 10px;
+    height: 40px;
+}
+.Gmail{
+    margin-left: 80px;
+    margin-top: 8%;
+}
+.yourinfo{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.product{
+    border: solid;
+    margin-left: 70%;
+    margin-top: -25%;
+    border-radius: 10px;
+    text-align: center;
+    border-color: gray;
+}
+#confirm{
+    width: 250px;
+    height: 40px;
+    background-color: #FFD600;
+    color: white;
+    border-radius: 10px;
+    margin-top: 10%;
+}
+#promo{
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 8%;
+}
+#plus{
+    margin-left: 10%;
+}
+#save{
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: lawngreen;
+    color: lawngreen;
+}
+#two{
+    margin-left: 70%;
+    margin-top: -10%;
+    color: grey;
+}
+#stead{
+    margin-right: 70%;
+    color: grey;
+}
+#prod{
+    margin-right: 50%;
+}
+#one{
+    margin-right: 70%;
+    font-weight: bold;
+}
+#method{
+    margin-left: 12%;
+}
+#grey1{
+    color: grey;
+    font-size: 30px;
+}
+.day{
+    background-color: white;
+    margin-top: 5%;
+}
+.dot1{
+    display: flex;
+    margin-left: 12%;
+}
+#pick{
+    width: 3%;
+    margin-left:5%;
+}
+#stores{
+    font-weight: bolder;
+}
+#see{
+    color: #E70062;
+    margin-left: 17%;
+}
+.dot2{
+    display: flex;
+    margin-left: 12%;
+    margin-top: 5%;
+}
+#grey2{
+    color: #FFD600;
+    font-size: 30px;
+}
+#direction{
+    width: 3%;
+    background-color: #E70062;
+    margin-left: 5%;
+}
+#nova{
+    font-weight: bolder;
+}
+#from{
+    color: gray;
+    margin-left: 5%;
+}
+#free{
+    color:lime;
+    margin-left: 5%;
+}
+.dot3{
+    display: flex;
+    margin-left: 12%;
+    margin-top: 5%;
+}
+#location{
+    width: 5%;
+    margin-left: 4%;
+}
+#roshta{
+    font-weight: bolder;
+}
+#fre{
+    margin-left: 5%;
+    color: lime;
+}
+#days{
+    margin-left: 7%;
+    color: gray;
+}
+#pay{
+    margin-left: 10%;
+}
+.dot4{
+    display: flex;
+    margin-left: 12%;
+}
+#cash{
+    width: 4%;
+    margin-left: 5%;
+}
+#money{
+    font-weight: bolder;
+}
+#clamation{
+    font-size: 40px;
+    margin-left: 35%;
+}
+.dot5{
+    display: flex;
+    margin-left: 12%;
+    margin-top: 5%;
+}
+#google{
+    width: 3%;
+    margin-left: 5%;
+}
+#gp{
+    font-weight: bolder;
+}
+#clamation2{
+    font-size: 40px;
+    margin-left: 31%;
+}
+.dot6{
+    display: flex;
+    margin-left: 12%;
+    margin-top: 5%;
+
+}
+#apple{
+    width: 3%;
+    margin-left: 5%;
+}
+#app{
+    font-weight: bolder;
+}
+#clamation3{
+    font-size: 40px;
+    margin-left: 32%;
+}
+.payment{
+    margin-top: 10%;
+}
+#c{
+    border: solid;
+    border-radius:200px;
+    width: 10px;
+}
+.end{
+    display: flex;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+#twenty{
+    margin-left: 10px;
+}
+
+
+
+@media(max-width:1000px){
+    .container{
+        display:grid;
+        margin-right:50px;
+        margin-left:-5px
+    }
+    .product{
+        margin-top:100px;
+        margin-left:-5px;
+        width:240px
+    }
+    #save{
+        width:180px
+    }
+    #promo{
+        width:180px
+    }
+    #confirm{
+        width:180px
+    }
+   .last{
+       margin-top:100px;
+       margin-left:-180px
+   }
+    .Gmail{
+        margin-top:120px;
+        margin-left:-180px
+    }
+    .yourinfo{
+        margin-left:-5px;
+    }
+    #enter{
+        font-size:20px;
+    }
+    .brick{
+        width:343px
+    }
+    #bh{
+        width:50px
+    }
+    #house{
+        margin-top:-1%
+    }
+    #inbox{
+        margin-top:23px;
+        margin-left:-85px
+    }
+    #info{
+        margin-top:24px
+    }
+    #phone{
+        margin-top: 50px;
+        margin-left:-170px
+    }
+    #zero{
+        margin-top:50px;
+    }
+    #method{
+        font-size:18px
+    }
+    .dot1{
+    }
+    #grey1{
+        font-size:25px;
+        margin-top:28px
+    }
+    #pick{
+        width:30px;
+        margin-left:-1px
+    }
+    #stores{
+        font-size:12px;
+        margin-left:15px
+    }
+    #see{
+        margin-top:40px;
+        margin-left:-100px
+    }
+    
+    .dot2{
+    }
+    #grey2{
+        margin-top:20px
+    }
+    #direction{
+        width:30px;
+    }
+    #nova{
+        margin-left:15px
+    }
+    .dot3{
+    }
+    #location{
+        width:40px
+    }
+    #pay{
+        font-size:28px
+    }
+    #cash{
+        width:40px
+    }
+    #google{
+        width:40px
+    }
+    #apple{
+        width:40px
+    }
+    #clamation{
+        margin-left:100px
+    }  
+    #clamation{
+        margin-left: 70px;
+    }
+    #clamation3{
+        margin-left: 80px;
+    }
+    
+}

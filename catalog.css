@@ -315,7 +315,9 @@ margin-top: 5%;
 }
 #master{
     margin-left: 5%;
+    /* flex-direction: column; */
 }
+
 #pal{
     margin-left: 5%;
 }
